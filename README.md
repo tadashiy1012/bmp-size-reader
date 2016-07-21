@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tadashiy1012/bmp-size-reader.svg?branch=master)](https://travis-ci.org/tadashiy1012/bmp-size-reader)
 # bmp-size-reader
 Gets the height and width of the bmp image
 
